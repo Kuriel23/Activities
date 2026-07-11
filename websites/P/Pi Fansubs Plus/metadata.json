@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.17",
+  "apiVersion": 1,
+  "author": {
+    "id": "354233941550694400",
+    "name": "kuriel."
+  },
+  "service": "Pi Fansubs Plus",
+  "description": {
+    "en": "Pi Fansubs Plus is a free brazilian streaming site where you can watch subtitled bls content.",
+    "pt": "Pi Fansubs Plus é um site de streaming gratuito onde você pode assistir a conteúdos bls legendados.",
+    "pt-br": "Pi Fansubs Plus é um site de streaming gratuito onde você pode assistir a conteúdos bls legendados."
+  },
+  "url": [
+    "pifansubs.plus",
+    "www.pifansubs.plus"
+  ],
+  "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*pifansubs[.]plus[/]",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/aSgh0w8.jpeg",
+  "thumbnail": "https://i.imgur.com/sFVczfx.png",
+  "color": "#00be08",
+  "category": "videos",
+  "tags": [
+    "series",
+    "movies"
+  ],
+  "iframe": true,
+  "iFrameRegExp": "blsplayer[.]com|csst[.]online|pifansubs[.]plus"
+}
